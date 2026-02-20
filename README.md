@@ -18,9 +18,26 @@ A lightweight image background removal tool built with Python and Tkinter. Suppo
 
 ## Installation
 
-```bash
-pip install -r requirements.txt
-```
+1. Create and activate a virtual environment:
+
+   ```bash
+   python -m venv venv
+   ```
+
+   - **Windows:**
+     ```bash
+     venv\Scripts\activate
+     ```
+   - **macOS/Linux:**
+     ```bash
+     source venv/bin/activate
+     ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
